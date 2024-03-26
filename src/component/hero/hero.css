@@ -1,0 +1,22 @@
+.btn{
+    background-color: #DC0155;
+    padding: 10px 10px;
+    margin: 15px 15px;
+    border-radius: 25px;
+    text-decoration: none;
+    border: #FFFF;
+
+}
+
+span{
+    color: #DC0155;
+}
+
+.intro{
+    width: 70%;
+
+}
+
+.welcome{
+    font-weight: 500;
+}

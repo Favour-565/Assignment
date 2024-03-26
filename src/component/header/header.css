@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+}
+
+.nav-bar{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-buttons{
+    width: 35%;
+    color : #333333;
+}
+
+.nav-buttons ul{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-buttons ul li{
+    list-style: none;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+
+}
+
+.left, .right{
+    width: 50%;
+}
+
+.right img{
+    width: -webkit-fill-available;
+}

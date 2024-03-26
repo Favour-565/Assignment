@@ -1,0 +1,16 @@
+.last-section{
+    margin: 20px 100px;
+}
+.cards{
+    display: flex;
+    margin-top: 70px;
+    
+}
+
+.card  p{
+    width: 200px;
+}
+
+.card-2,  .card-3{
+    margin-left: 50px;
+}
